@@ -4,7 +4,6 @@
 * JavaScript  
 * CSS
 
-=
 
 
 My source of learning is **ItDoctor`s** channel on *www.youtube.com*,  
